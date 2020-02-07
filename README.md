@@ -15,4 +15,8 @@ This repository will be used for accessing different files related to the course
 2. banana
 3. cookies
 
+<<<<<<< HEAD
 i forgot peanut butter.
+=======
+i forgot peanut butter.
+>>>>>>> msg
