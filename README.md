@@ -1,5 +1,7 @@
 # CSIT-165
 
+This is the way.
+
 Introduction to the R programming language. 
 R is becoming the leading programming language and environment to assist data analysts, statisticians, and researchers to develop statistical computing and graphics programs.
 
