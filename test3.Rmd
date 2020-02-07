@@ -1,0 +1,19 @@
+---
+title: "Untitled"
+output: html_document
+---
+```{r}
+load("C:/Users/galac/Documents/R/CSIT-165/Module-4/data.RData")
+```
+
+```{r}
+a <- min(data)
+b <- max(data)
+c <- mean(data)
+x1 <-((-b) + sqrt((b^2) - 4*a*c)) / (2*a)
+x2 <- ((-b) - sqrt((b^2) - 4*a*c)) / (2*a)
+x1
+x2
+
+cat(paste("x = {",x1,",",x2,"}"))
+```
